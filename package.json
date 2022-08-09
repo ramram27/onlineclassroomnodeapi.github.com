@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "and": "^0.0.3",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "firebase-admin": "^11.0.0",
+    "google-auth-library": "^8.1.1",
+    "i": "^0.3.7",
+    "init": "^0.1.2",
+    "mongoose": "^6.4.4",
+    "nginx": "^1.0.8",
+    "nodejs": "^0.0.0",
+    "npm": "^8.14.0",
+    "validator": "^13.7.0"
+  }
+}
